@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Avrix - Build Great Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <header>
+    <div class="logo">AVRIX</div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Pages</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- LEFT FLOATING BUTTON -->
+  <div class="left-button">
+    <a 
+      href="https://youtu.be/i3655baHbgU" 
+      target="_blank" 
+      class="watch-video-btn"
+    >
+      Watch Video
+    </a>
+  </div>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2 class="tagline">Creative Digital Studio</h2>
+    <h1 class="title">BUILD GREAT <span>PORTFOLIO</span></h1>
+    <div class="badge">AWARD WINNING WEB AGENCY</div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
